@@ -1,38 +1,31 @@
 - key: Name
-  value: Place Holder
-- key: Description
+  value: Mrunal Pallempati
+- key: Message
   value:
     - Hello!
-    - This tiny website
-    - Looks like JSON
+    - This is a tiny website about me.
+    - Thanks for visiting!
   typed: true
 - key: CV
   value: cv.pdf
   url: /cv.pdf
 - key: Address
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Stevens Institute of Technology
+    - Applied Artificial Intelligence
+    - Hoboken, Jersey City, New Jersey, United States
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
     - key: Phone
-      value: +1 234 567 890
+      value: +1 201 951 4739
     - key: Email
-      value: username@domain.com
+      value: mrunal.2803@gmail.com
       url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
 - key: Profiles
   value:
     - value: Instagram
-      url: https://www.instagram.com
+      url: https://www.instagram.com/mrunnaal
     - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
+      url: https://www.linkedin.com/mrunal-pallempati
     - value: GitHub
-      url: https://github.com
+      url: https://github.com/mrunaaaal
