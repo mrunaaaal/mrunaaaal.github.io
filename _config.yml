@@ -3,7 +3,7 @@ description: Jekyll microtheme that looks like JSON
 baseurl: 
 url: https://mrunaaaal.github.io
 
-theme: hacked-jekyll
+#theme: hacked-jekyll
 
 exclude:
   - LICENSE
