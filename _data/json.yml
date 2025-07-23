@@ -8,7 +8,7 @@
   typed: true
 - key: CV
   value: cv.pdf
-  url: /main/_data/cv.pdf
+  url: ./cv.pdf
 - key: Address
   value:
     - Stevens Institute of Technology
