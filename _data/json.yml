@@ -8,7 +8,7 @@
   typed: true
 - key: CV
   value: cv.pdf
-  url: ./cv.pdf
+  url: https://github.com/mrunaaaal/mrunaaaal.github.io/blob/main/_data/cv.pdf
 - key: Address
   value:
     - Stevens Institute of Technology
